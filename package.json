@@ -1,0 +1,21 @@
+{
+    "name": "React Models",
+    "version": "0.1",
+    "author": "Jason McCarrell <jason.abz@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/funkjunky/react-model-mixins"
+    },
+    "main": "dist/all.js",
+    "dependencies": {
+        "react": "0.13.x",
+        "superagent": "1.2.x",
+        "underscore": "1.8.x
+    },
+    "devDependencies": {
+        "grunt": "0.4.x",
+        "browserify": "9.0.x",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-react": "^0.10.0",
+    }
+}
